@@ -1,0 +1,4 @@
+SJF Non Pre-emptive
+Average wait time: 7.90
+Average response time: 7.90
+Average turnaround time: 11.40
